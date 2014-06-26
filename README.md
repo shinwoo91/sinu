@@ -3,4 +3,4 @@ sinu
 
 this is exercise
 
-hello git
+hello git goodbye git
